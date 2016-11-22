@@ -1,1 +1,1 @@
-# prime_prestudy_06_resume
+Both my resume, and my first attempts at managing a GitHub remote repository.
